@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+	text-align: center;
+    color: red;
+}
+
+p {
+	color: black;
+}
+
+code{
+	color: orange;
+}
+
+form{
+	color: green;
+}
+
+button{
+	color: green;
+	text-align: center;
+}
+li{
+	color: indigo;
+}
+table{
+	color: brown;
+}
